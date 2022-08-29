@@ -75,6 +75,7 @@ section.section-text {
     max-width: 910px;
     font-size: 1.4em;
     text-align: center;
+    word-break: break-word;
 }
 
 .link-github {
